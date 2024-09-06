@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\laba\laba\laba\obj\Debug\laba.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\laba\laba\laba\obj\Debug\laba.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\laba\laba\laba\bin\Debug\laba.exe.config
+C:\Users\student\Desktop\laba\laba\laba\bin\Debug\laba.exe
+C:\Users\student\Desktop\laba\laba\laba\bin\Debug\laba.pdb
+C:\Users\student\Desktop\laba\laba\laba\obj\Debug\laba.exe
+C:\Users\student\Desktop\laba\laba\laba\obj\Debug\laba.pdb
